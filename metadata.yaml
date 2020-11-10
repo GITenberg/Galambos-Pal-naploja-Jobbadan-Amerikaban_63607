@@ -1,0 +1,28 @@
+_repo: Galambos-Pal-naploja-Jobbadan-Amerikaban_63607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rákosi, Viktor
+    alias: Rakosi, Viktor
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '52157'
+    url: http://www.gutenberg.org/2009/agents/52157
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Viktor_R%C3%A1kosi
+    - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Viktor
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63607'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+title: Galambos Pál naplója; Jobbadán Amerikában
+url: http://www.gutenberg.org/ebooks/63607
